@@ -299,9 +299,7 @@ h1 span:hover {
             animation: rubberBand 1s;
 }
 
-.bg-pocetna {
-    background-image: url('../images/zeleni.jpg');
-}
+
 
 .bg-viKazete {
     background-image: url('../images/vi-kazete2.png');
@@ -328,6 +326,22 @@ h1 span:hover {
 .bg-card {
     background: rgb(2, 0, 36);
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(3, 160, 79, 1) 43%, rgba(3, 160, 79, 1) 100%, rgba(3, 160, 79, 1) 100%);
+}
+
+.bg-slider {
+    background-image: url('../images/model-x-tesla.jpg');
+}
+
+.bg-slider1 {
+    background-image: url('../images/toyota-avanza-veloz_169.jpg');
+}
+
+.bg-slider2 {
+    background-image: url('../images/Suzuki_Ertiga.jpg');
+}
+
+.bg-slider3 {
+    background-image: url('../images/wuling_ev.jpg');
 }
 
 
